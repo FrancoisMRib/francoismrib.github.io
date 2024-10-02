@@ -40,7 +40,7 @@ export function Curtain() {
             <Link to={`/`} className="categ">Accueil</Link>
             <Link to={`/compteur`} className="categ">Compteur</Link>
             <Link to={`/compteur`} className="categ">Mes projets</Link>
-            <Link to={`/`} className="categ">Ma vie</Link>
+            <Link to={`/life`} className="categ">Ma vie</Link>
 
         </div>
       </div>
