@@ -1,2 +1,0 @@
-# francoismrib.github.io
-Portfolio
