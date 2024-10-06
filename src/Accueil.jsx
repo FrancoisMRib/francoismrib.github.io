@@ -4,7 +4,7 @@ export function Accueil() {
     return (
         <div>
             <Header/>
-            Bonjour !
+            Bonjour ! Voici mon CV pour que puissiez apprendre à me connaître : 
         </div>
     )
 }
